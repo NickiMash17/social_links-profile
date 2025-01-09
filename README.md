@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/NickiMash17/social_links-profile)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://social-links-profile-hlzo.vercel.app/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - []Nicolette Mashaba()
-- Frontend Mentor - [@Reney17]()
+- Website - [Nicolette Mashaba](https://social-links-profile-lime-kappa.vercel.app/)
+- Frontend Mentor - [@Reney17](https://www.frontendmentor.io/profile/Reney17)
