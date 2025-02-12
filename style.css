@@ -152,3 +152,23 @@ img {
     }
     
 }
+
+@media screen and (max-width: 500px) {
+    .avatar-img {
+      width: 80px;  /* Ensuring smaller size on mobile */
+      height: 80px; /* Adjust height explicitly */
+    }
+  
+    .avatar-img::before {
+      width: 80px;  /* Adjust border animation to match new size */
+      height: 80px;
+    }
+  
+    .avatar-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* Ensures the image scales properly inside */
+      border-radius: 50%;
+    }
+  }
+  
